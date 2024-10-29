@@ -32,23 +32,23 @@ img{
 
 
 .b1:hover~img{
-    transform: rotateZ(360deg);
+    transform: rotateZ(3600deg);
     transition: 10s; 
     cursor:pointer;  
 }
 .b2:hover~img{
 
-    transform: rotateZ(360deg);
-    transition: 5s;   
+    transform: rotateZ(3600deg);
+    transition: 5s;  
 }
 .b3:hover~img{
 
-    transform: rotateZ(360deg);
+    transform: rotateZ(3600deg);
     transition: 1s;   
 }
 .b4:hover~img{
 
-    transform: rotateZ(360deg);
+    transform: rotateZ(3600deg);
     transition: 0.4s;   
 }
 .c11{
