@@ -38,18 +38,18 @@ img{
 }
 .b2:hover~img{
 
-    transform: rotateZ(3600deg);
-    transition: 5s;  
+    transform: rotateZ(5400deg);
+    transition: 10s;  
 }
 .b3:hover~img{
 
-    transform: rotateZ(3600deg);
-    transition: 1s;   
+    transform: rotateZ(7400deg);
+    transition: 10s;   
 }
 .b4:hover~img{
 
-    transform: rotateZ(3600deg);
-    transition: 0.4s;   
+    transform: rotateZ(9400deg);
+    transition: 10s;   
 }
 .c11{
     width: 60px;
